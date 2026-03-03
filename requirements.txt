@@ -1,0 +1,7 @@
+kokoro>=0.9.4
+fastapi>=0.134.0
+uvicorn>=0.41.0
+soundfile>=0.13.1
+numpy>=2.4.2
+faster-whisper>=1.2.1
+python-multipart>=0.0.22
