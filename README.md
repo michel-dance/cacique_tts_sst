@@ -33,7 +33,7 @@ Built for use with [OpenClaw](https://github.com/OpenClaw).
 ## Installation
 
 ```bash
-git clone https://github.com/OpenClaw/tts-server.git
+git clone https://github.com/michel-dance/cacique_tts_sst
 cd tts-server
 pip install -r requirements.txt
 ```
